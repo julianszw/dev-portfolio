@@ -65,3 +65,13 @@ This document provides a comprehensive overview of the Multimax CRM project, des
 ---
 
 *This document was auto-generated to represent the architectural and functional depth of the Multimax CRM project.*
+
+---
+
+## Contexto profesional
+
+**Rol en el portfolio:** proyecto personal full-stack que aplica el patrón de un producto B2B operativo de punta a punta, sobre una base backend sólida.
+
+**Conexión con mi trayectoria:** el backend Node.js/Express con PostgreSQL dockerizado y la separación entre la operación interactiva y la mensajería masiva encolada (BullMQ + Redis) reflejan el trabajo con APIs y servicios de alta demanda que realizo en sistemas financieros críticos. La autenticación con JWT y RBAC replica el control de acceso que aplico en entornos productivos, y la extracción de catálogo con DeepSeek conecta directamente con mi línea de AI Engineering (integración de LLM sobre base backend).
+
+**Qué demuestra:** capacidad de llevar un producto completo —modelo de datos, API, interfaz, colas asíncronas e infraestructura— con decisiones de arquitectura justificadas y no solo funcionalidad.

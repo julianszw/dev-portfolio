@@ -90,3 +90,13 @@ Si utilizas este documento para inicializar o clonar el proyecto en un nuevo rep
 - Todo nuevo flujo de datos debe especificarse primero bajo la metodología OpenSpec en `openspec/`.
 - Garantizar que cualquier consumo de API externa de LLM utilice validación estricta con Pydantic.
 - Preservar la nomenclatura en inglés para código, base de datos y esquemas, manteniendo la documentación de negocio orientada en español/inglés según corresponda.
+
+---
+
+## Contexto profesional
+
+**Rol en el portfolio:** proyecto personal que combina un backend Python asíncrono con un pipeline de extracción mediante LLM.
+
+**Conexión con mi trayectoria:** la arquitectura en capas (routers → services → models), el I/O estrictamente asíncrono y la persistencia con UUID + JSONB se alinean con mi experiencia en microservicios y arquitectura hexagonal. El uso de tool calling forzado con Pydantic para obtener datos tipados y deterministas conecta con mi especialización en AI Engineering (integración de LLM, function calling, RAG y MCP) sobre una base backend productiva.
+
+**Qué demuestra:** integrar LLMs en un sistema real con contratos estrictos —la diferencia entre un AI Engineer y un perfil de investigación— sin descuidar testing (`pytest` + `respx`) y separación de responsabilidades.

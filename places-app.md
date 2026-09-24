@@ -82,3 +82,13 @@ Instrucciones para desplegar o inicializar el proyecto en tu nuevo repositorio d
    npm install
    npm run dev
    ```
+
+---
+
+## Contexto profesional
+
+**Rol en el portfolio:** plataforma documental full-stack con backend Python/FastAPI y frontend Next.js, orientada a datos y experiencia de usuario.
+
+**Conexión con mi trayectoria:** las invariantes de "cero hard deletes" y soft-delete auditado son análogas al rigor de integridad y consistencia (ACID) que aplico en sistemas financieros. La búsqueda semántica con pgvector conecta con mi línea de AI Engineering (bases de datos vectoriales), y el modelado de entidades como `Person` y `VenueCrewRole` refleja el modelado relacional y de dominio que practico.
+
+**Qué demuestra:** modelado de dominio rico con invariantes explícitas e integración de capacidades de datos/IA sobre una base backend sólida en Python.

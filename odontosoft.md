@@ -94,3 +94,13 @@ odontosoft/
 Si deseas que una IA genere este portfolio en un repositorio nuevo a partir de este documento, pídele lo siguiente:
 
 > *"Crea una aplicación web moderna tipo portfolio basada en la especificación de OdontoSoft: un sistema de gestión para clínicas odontológicas con una interfaz impecable en React, Tailwind CSS y TypeScript. Incluye simulación interactiva de una agenda con drag-and-drop, ficha de pacientes con pestañas, selector de roles en tiempo real y un odontograma FDI interactivo. El diseño debe ser limpio, profesional, con tonos clínicos (emerald/teal/slate), siguiendo una arquitectura modular por componentes."*
+
+---
+
+## Contexto profesional
+
+**Rol en el portfolio:** SaaS web-first con backend Express + Drizzle/PostgreSQL y frontend React + TypeScript, centrado en dominio clínico.
+
+**Conexión con mi trayectoria:** la máquina de estados del turno con historial inmutable y la separación estricta de RBAC entre lo clínico y lo administrativo replican el rigor transaccional y de control de acceso que ejerzo en sistemas financieros (estándares ACID, procesos batch, JWT/OAuth 2.0). La abstracción de repositorio (`mockRepo`/`httpRepo`) y el testing con Vitest reflejan las prácticas de Clean Code y testing que aplico en producción.
+
+**Qué demuestra:** diseño de dominio con invariantes y trazabilidad —no solo CRUD— y un frontend complejo construido sobre una base backend fuerte.
